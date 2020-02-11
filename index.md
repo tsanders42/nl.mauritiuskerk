@@ -8,7 +8,7 @@
     <meta name="author" content="Mauritiuskerk">
     <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA/4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERERERAAAAAAAAERAQAAAAAAEBEAEAAAAAEAEQABAAAAEAARAAAQAAEAABEAAAEAEAAAEQAAABEAAAARAAAAEQAAABEAAAEAEAAAEQAAEAABAAARAAEAAAAQABEAEAAAAAEAEQEAAAAAABAREAAAAAAAAREREREREREREAAAAAP/wAAF/6AABv9gAAd+4AAHveAAB9vgAAfn4AAH5+AAB9vgAAe94AAHfuAABv9gAAX/oAAD/8AAAAAAAA" rel="icon" type="image/x-icon" />
 
-    <title>Mauritiuskerk Bed & Breakfast in Jirnsum, Friesland</title>
+    <title>Mauritiuskerk Bed & Breakfast in Irnsum, Friesland</title>
 
     <link rel="canonical" href="https://mauritiuskerk.nl/">
 
@@ -66,7 +66,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="second-slide" src="assets\wikipedia.jpg" alt="Second slide">
+            <img class="second-slide" src="assets\interior.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
                 <h1>Another example headline.</h1>
