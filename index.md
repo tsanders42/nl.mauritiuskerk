@@ -56,7 +56,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="first-slide" src="assets\wikipedia.jpg" alt="First slide">
+            <img class="first-slide" src="assets\streetview.jpg" alt="First slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Example headline.</h1>
@@ -76,10 +76,10 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="third-slide" src="assets\wikipedia.jpg" alt="Third slide">
+            <img class="third-slide" src="assets\maps.jpg" alt="Third slide">
             <div class="container">
-              <div class="carousel-caption text-right">
-                <h1>One more for good measure.</h1>
+              <div class="carousel-caption text-right text-secondary">
+                <h1>One more.</h1>
                 <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
               </div>
