@@ -155,7 +155,7 @@
             <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="https://via.placeholder.com/500" alt="Generic placeholder image">
+            <iframe src="https://calendar.google.com/calendar/embed?src=belcon.nl_mi3jir5rlmmvr3fcigehfml38g%40group.calendar.google.com&ctz=Europe%2FAmsterdam" style="border: 0" width="500" height="500" frameborder="0" scrolling="no"></iframe>
           </div>
         </div>
 
